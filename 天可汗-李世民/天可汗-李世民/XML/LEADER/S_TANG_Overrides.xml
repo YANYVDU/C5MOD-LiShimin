@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2018/10/18 14:56:26 -->
+<GameData>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<UnitClassType>UNITCLASS_ELITE_RIDER</UnitClassType>
+			<UnitType>UNIT_S_TANG_ELITE_RIDER</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+			<UnitType>UNIT_S_TANG_LONGSWORDSMAN</UnitType>
+		</Row>
+		<!-- <Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<UnitClassType>UNITCLASS_SHIREN</UnitClassType>
+			<UnitType>UNIT_S_TANG_SHIREN</UnitType>
+		</Row> -->
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
+			<UnitType>UNIT_S_TANG_CROSSBOWMAN</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<BuildingType>BUILDING_S_TANG_MONUMENT</BuildingType>
+		</Row>
+        <Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+			<BuildingType>BUILDING_S_TANG_LIBRARY</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+			<BuildingType>BUILDING_S_TANG_STABLE</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AMPHITHEATER</BuildingClassType>
+			<BuildingType>BUILDING_S_TANG_AMPHITHEATER</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_ARMORY</BuildingClassType>
+			<BuildingType>BUILDING_S_TANG_ARMORY</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_S_TANG</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_NATIONAL_SCULPTURE</BuildingClassType>
+			<BuildingType>BUILDING_S_TANG_NATIONAL_SCULPTURE</BuildingType>
+		</Row>
+    </Civilization_BuildingClassOverrides>
+</GameData>

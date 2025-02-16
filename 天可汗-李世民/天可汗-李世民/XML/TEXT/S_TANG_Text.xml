@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_LISHIMIN_FIRST_GREETING">
+			<Text>欢迎！我是李世民，大唐的皇帝。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LISHIMIN_DEFEATED">
+			<Text>若有登善、辅机在侧，何至于此？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_S_TANG_DESC">
+			<Text>大唐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_S_TANG_SHORT_DESC">
+			<Text>大唐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_S_TANG_ADJECTIVE">
+			<Text>大唐</Text>
+		</Row>>
+		<Row Tag="TXT_KEY_LEADER_LISHIMIN">
+			<Text>李世民</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_S_TANG_SHORT">
+			<Text>天可汗/才聚盛唐</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_S_TANG">
+			<Text>
+				[ICON_BULLET]进入新时代、开启新政策树时赠送一位[ICON_GREAT_PEOPLE]自选伟人
+				[NEWLINE][ICON_BULLET]每次诞生伟人提高所有见面城邦35[ICON_INFLUENCE]影响力
+				[NEWLINE][ICON_BULLET]军事单位每远离首都一格获得5%[ICON_STRENGTH]战斗力加成，上限200%
+			</Text>
+		</Row>
+		<Row Tag = "TXT_KEY_DOM_LISHIMIN">
+			<Text>
+				明君典范太宗文皇帝，您以贞观之治铸就盛世华章：
+				[NEWLINE]劝课农桑兴水利，轻徭薄赋安万民；弘文崇儒开科举，房谋杜断聚群英；从谏如流明得失，三省六部定乾坤。
+				[NEWLINE]玄甲铁骑定四夷，丝路驼铃连八荒；羁縻府州纳百族，天可汗名震八方；律令格式垂法统，均田府兵固国邦。
+				[NEWLINE]而今九重阊阖开，万国衣冠拜冕旒。您将以怎样的雄才续写青史？让这煌煌大唐如日之升，照彻千年文明之路？
+			</Text>
+		</Row>
+
+		<Row Tag = "TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_NAME">
+			<Text>唐太宗</Text>
+		</Row>
+		<Row Tag = "TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_LIVED">
+			<Text>公元599—公元649年</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TITLES_1">
+			<Text>唐文帝</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_SUBTITLE">
+			<Text>盛唐的开创者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_HEADING_1">
+			<Text>建立和巩固唐朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TEXT_1">
+			<Text>李世民本身就是建立唐朝最重要的军功勋贵，在父亲李渊建立唐朝之后，他通过一系列军事和政治手段巩固了唐朝的统治，并在上位前后，积极消灭对手，加强中央集权。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_HEADING_2">
+			<Text> “贞观之治”</Text>
+				</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TEXT_2">
+			<Text>李世民的统治时期被称为“贞观之治”，是中国历史上经济、政治、文化最为繁荣的时代之一。在这一时期，国家政治清明，经济繁荣，社会稳定。贞观之治不仅成就了偿还财政和减轻赋税，也使得百姓的生活水平显著提高。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_HEADING_3">
+			<Text>治理改革</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TEXT_3">
+			<Text>李世民进行了一系列的政治改革，注重选拔官员的才德，推行科举制度。通过这种方式，他吸引了大量有才能的人才参与国家管理，提升了行政效率。此外，李世民还重视法律建设和司法公正，增强了国家治理的能力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_HEADING_4">
+			<Text>对外扩张与外交</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TEXT_4">
+			<Text>李世民注重对外关系，通过战争和外交手段扩大了唐朝的疆域。唐朝在他的统治下与周边国家如高昌、吐蕃、东突厥等建立了良好的外交关系，增强了国家的影响力。此外，他派遣了著名的“玄奘”赴印度学习佛教，促进了中印文化交流。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_HEADING_5">
+			<Text>文化繁荣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TEXT_5">
+			<Text>在李世民的统治下，文化的发展得到了重视，文人和士子的地位提高，文学、艺术繁荣昌盛。李世民本人也是一位有文学修养的皇帝，他鼓励诗人创作，推动了唐诗的兴起。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_HEADING_6">
+			<Text>军事成就</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LISHIMIN_TEXT_6">
+			<Text>李世民擅长军事，亲自指挥了多次重要军事行动，打败了吐蕃和突厥等敌对力量。他的军事才能和战略眼光，使唐朝的国防巩固，国家安全得以保障。
+			</Text>
+		</Row>
+		<!-- CITY NAMES -->
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_01">
+			<Text>长安</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_02">
+			<Text>洛阳</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_03">
+			<Text>扬州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_04">
+			<Text>汴州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_05">
+			<Text>泉州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_06">
+			<Text>太原</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_07">
+			<Text>蓟州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_08">
+			<Text>晋阳</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_09">
+			<Text>潮州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_10">
+			<Text>江夏</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_11">
+			<Text>永州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_12">
+			<Text>豫章</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_13">
+			<Text>凤翔</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_14">
+			<Text>坊州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_15">
+			<Text>同州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_16">
+			<Text>陇州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_17">
+			<Text>宁州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_18">
+			<Text>庆州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_19">
+			<Text>娜州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_20">
+			<Text>定州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_21">
+			<Text>绥州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_22">
+			<Text>银州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_23">
+			<Text>夏州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_24">
+			<Text>灵州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_25">
+			<Text>盐州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_26">
+			<Text>丰州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_27">
+			<Text>会州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_28">
+			<Text>陈州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_29">
+			<Text>亳州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_30">
+			<Text>宋州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_31">
+			<Text>郓州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_32">
+			<Text>泗州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_33">
+			<Text>海州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_34">
+			<Text>沂州</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_S_TANG_35">
+			<Text>密州</Text>
+		</Row>
+<!-- 间谍-->
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_0">
+			<Text>萧瑀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_1">
+			<Text>段志玄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_2">
+			<Text>长孙无忌</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_3">
+			<Text>褚遂良</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_4">
+			<Text>李孝恭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_5">
+			<Text>杜如晦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_6">
+			<Text>魏征</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_7">
+			<Text>房玄龄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_8">
+			<Text>高士廉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_9">
+			<Text>尉迟敬德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_10">
+			<Text>李靖</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_11">
+			<Text>刘宏基</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_12">
+			<Text>屈突通</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_13">
+			<Text>殷开山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_14">
+			<Text>柴绍</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_15">
+			<Text>长孙顺德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_16">
+			<Text>张亮</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_17">
+			<Text>侯君集</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_18">
+			<Text>张公瑾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_19">
+			<Text>程知节</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_20">
+			<Text>虞世南</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_21">
+			<Text>刘政会</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_22">
+			<Text>唐俭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_23">
+			<Text>徐世绩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_S_TANG_24">
+			<Text>秦叔宝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_ELITE_RIDER">
+			<Text>[COLOR_YIELD_GOLD]天策玄甲[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_ELITE_RIDER_HELP">
+			<Text>
+				由李世民亲率的最精锐的玄甲军，相比普通玄甲军拥有更多能力:
+				[NEWLINE][ICON_BULLET]初始生命值+100，进攻时额外增加100%[ICON_STRENGTH]战斗力，本回合每攻击一次增加10%进攻加成，远程防御时+100%[ICON_STRENGTH]战斗力，攻城不失去所有移动力.
+				[NEWLINE][ICON_BULLET]有25%的概率忽视受到伤害,拥有特色晋升线，每回合自动获取5经验.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_ELITE_RIDER_STRATEGY">
+			<Text>特有晋升线:
+				[NEWLINE][ICON_BULLET]明光昭天:hp+50，[ICON_STRENGTH]战斗力增加50%，每单位富余[ICON_RES_IRON]铁额外增加5%[ICON_STRENGTH]战斗力，上限50%
+				[NEWLINE][ICON_BULLET]千里奔袭:hp+50，[ICON_MOVES]移动力+1，攻击次数+1，允许使用千里奔袭(恢复所有移动力，[COLOR_NEGATIVE_TEXT]本回合降低[ENDCOLOR]100%[ICON_STRENGTH]战斗力)
+				[NEWLINE][ICON_BULLET]百川归海:攻击次数+2，对方每有一个晋升增加5%[ICON_STRENGTH]战斗力
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER">
+			<Text>天策玄甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_HELP">
+			<Text>
+				[ICON_BULLET]hp+100，进攻时额外增加100%[ICON_STRENGTH]战斗力，本回合每攻击一次增加10%进攻加成，远程防御时+100%[ICON_STRENGTH]战斗力，攻城不失去所有移动力.
+				[NEWLINE][ICON_BULLET]有25%的概率忽视受到伤害,解锁特色晋升线，每回合自动获取5经验.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_1">
+			<Text>明光昭天</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_1_HELP">
+			<Text>
+				hp+50，[ICON_STRENGTH]战斗力增加50%，每单位富余[ICON_RES_IRON]铁额外增加5%[ICON_STRENGTH]战斗力，上限50%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_2">
+			<Text>千里奔袭</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_2_HELP">
+			<Text>
+				hp+50，[ICON_MOVES]移动力+1，攻击次数+1，允许使用千里奔袭(恢复所有移动力，[COLOR_NEGATIVE_TEXT]本回合降低[ENDCOLOR]100%[ICON_STRENGTH]战斗力)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_2_DEBUFF">
+			<Text>人困马乏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_2_DEBUFF_HELP">
+			<Text>
+				降低[ENDCOLOR]100%[ICON_STRENGTH]战斗力且无法再次发动千里奔袭，下回合恢复。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_3">
+			<Text>百川归海</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_ELITE_RIDER_3_HELP">
+			<Text>
+				攻击次数+2，对方每有一个晋升增加5%[ICON_STRENGTH]战斗力
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DEBUFF_1">
+			<Text>[COLOR_NEGATIVE_TEXT]踌躇不前[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DEBUFF_1_HELP">
+			<Text>[ICON_MOVES]移动力-1，进攻时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低10%，4回合后自动消失</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DEBUFF_2">
+			<Text>[COLOR_NEGATIVE_TEXT]身心俱疲[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DEBUFF_2_HELP">
+			<Text>[ICON_MOVES]移动力-2，防御时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低20%，3回合后自动消失</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DEBUFF_3">
+			<Text>[COLOR_NEGATIVE_TEXT]头晕眼花[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DEBUFF_3_HELP">
+			<Text>[ICON_MOVES]移动力-3，[ICON_STRENGTH]战斗力降低30%，无法近战攻击，每回合流失10%最大生命值，3回合后自动消失</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LINYAN_GENERAL">
+			<Text>[COLOR_YIELD_GOLD]天发杀机[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LINYAN_GENERAL_HELP">
+			<Text>攻击次数+1，造成伤害固定+20，受到伤害固定-15.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LINYAN_WRITER">
+			<Text>[COLOR:255:0:77:255]青史留名[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LINYAN_WRITER_HELP">
+			<Text>每个杰作提高4%[ICON_STRENGTH]战斗力。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LINYAN_ADMIRAL">
+			<Text>[COLOR:0:61:255:255]星辰大海[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LINYAN_ADMIRAL_HELP">
+			<Text>
+				允许进行20格空投，[ICON_STRENGTH]战斗力增加50%，面对空军时额外增加100%[ICON_STRENGTH]战斗力；
+				[NEWLINE][ICON_BULLET]我们的舰队遮天蔽日，无论天上有多少个太阳。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QINWANG">
+			<Text>秦王亲兵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QINWANG_HELP">
+			<Text>[ICON_BULLET]移动力+1，两环内存在天策玄甲时+100%[ICON_STRENGTH]战斗力
+				[NEWLINE][ICON_BULLET]允许花费所有移动力降低城市等同于耗费移动力的抵抗时间，需要消耗降低的抵抗时间x10的[ICON_GOLD]金钱，每降低1回合抵抗延长1回合[ICON_GOLDEN_AGE]黄金时代</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_LONGSWORDSMAN">
+			<Text>银装陌刀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_LONGSWORDSMAN_HELP">
+			<Text>大唐特有重装步兵，代替长剑士
+				[NEWLINE][ICON_BULLET]额外+1[ICON_MOVES]移动，+50%远程防御，面对骑兵和装甲单位+100%[ICON_STRENGTH]战斗力，进攻满血单位+100%[ICON_STRENGTH]战斗力，夹击加成+100%
+				[NEWLINE][ICON_BULLET]受到远程和近战攻击后若对方不是满血则会在数回合内降低战斗力和移动速度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_LONGSWORDSMAN_STRATEGY">
+			<Text>
+				[COLOR_UNIT_TEXT]作用：[ENDCOLOR]
+				[NEWLINE][ICON_BULLET]压制城市
+				[NEWLINE][ICON_BULLET]掩护
+				[NEWLINE][ICON_BULLET]降低敌方战斗力
+
+				[NEWLINE][NEWLINE][COLOR_YIELD_FOOD]特点：[ENDCOLOR] [NEWLINE][ICON_BULLET]受到远程和近战攻击后若对方不是满血则会降低对方移动力和战斗力并依次给予特有debuff。
+				[NEWLINE][NEWLINE][COLOR_YIELD_FOOD]特有debuff线：[ENDCOLOR] 
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]踌躇不前[ENDCOLOR]：[ICON_MOVES]移动力[COLOR_NEGATIVE_TEXT]-1[ENDCOLOR]，进攻时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低10%，4回合后自动消失或使用大军事家清除。
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]身心俱疲[ENDCOLOR]：[ICON_MOVES]移动力[COLOR_NEGATIVE_TEXT]-2[ENDCOLOR]，防御时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低20%，3回合后自动消失或使用大军事家清除
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]头晕眼花[ENDCOLOR]：[ICON_MOVES]移动力[COLOR_NEGATIVE_TEXT]-3[ENDCOLOR]，无法近战攻击，每回合流失10%最大生命值，[ICON_STRENGTH]战斗力降低30%，3回合后自动消失或使用大军事家清除
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_LONGSWORDSMAN">
+			<Text>银装陌刀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_LONGSWORDSMAN_HELP">
+			<Text>额外+1[ICON_MOVES]移动，+50%远程防御，面对骑兵和装甲单位+100%[ICON_STRENGTH]战斗力，进攻满血单位+100%[ICON_STRENGTH]战斗力，夹击加成+100%
+				[NEWLINE][ICON_BULLET]受到受伤敌人的远程和近战攻击会在数回合内降低对方战斗力和移动速度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_LONGSWORDSMAN_TEXT">
+			<Text>陌刀是中国隋唐时代特有的兵器种类，主要为步军所用。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHIREN">
+			<Text>诗人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHIREN_TEXT">
+			<Text>诗人，就一般意义来讲，通常是指写诗的人，但从文学概念上讲，则应是在诗歌（诗词）创作上有一定成就的写诗的人和诗作家。诗人，通过诗歌创作、吟咏抒发激情，通过诗歌讴歌祖国的大好河山，通过诗歌传颂人间真善美。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHIREN_HELP">
+			<Text>只能创造文学杰作的特殊伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_CROSSBOWMAN">
+			<Text>[COLOR_WHITE]江淮劲弩[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_CROSSBOWMAN_HELP">
+			<Text>
+				大唐特色单位，代替弩兵，拥有更高的战斗力
+				[NEWLINE][ICON_BULLET]自带精准一级精准二级，移动力+1，面对城市时+50%[ICON_STRENGTH]战斗力
+				[NEWLINE][ICON_BULLET]自带隐身和破隐，允许攻击后移动，在丘陵地块移动力翻倍，可越过障碍射击，
+				[NEWLINE][ICON_BULLET]攻击时对目标两环内敌人造成一点溅射伤害,完成首次作战后，获得一个随机强力晋升
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_S_TANG_CROSSBOWMAN_STRATEGY">
+			<Text>[ICON_PROMOTION_MYSTIC_BLADE]传承优化技能库：
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_RANGE]精确抛射
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_ARCHERY_COMBAT]精英狙击手
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_WOLFPACK_3]狼群战术
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_SP10_43]连弩
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_SURVIVALISM_1]人造意志
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_BUFFALO_CHEST]班图人
+				[NEWLINE][ICON_BULLET][ICON_PROMOTION_SAPPER]工兵
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_S_TANG_CROSSBOWMAN">
+			<Text>江淮弩手是唐朝一支以弩为武器的特殊兵种，以精准、防御和勇敢著称。其起源可追溯到汉朝，经过发展，唐朝时成为精锐部队，参与对外征战和对内平乱，战绩卓越。弩手的技艺和信仰，使他们在历史上留下不朽的传奇。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_CROSSBOWMAN">
+			<Text>江淮劲弩</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_CROSSBOWMAN_HELP">
+			<Text>移动力+1，面对城市时+50%[ICON_STRENGTH]战斗力，自带隐身和破隐，在丘陵地块移动力翻倍，允许攻击后移动，可越过障碍射击，攻击时对目标两环内敌人造成一点溅射伤害</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_CROSSBOWMAN_2">
+			<Text>传承优化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_CROSSBOWMAN_2_HELP">
+			<Text>完成首次作战后，获得一个随机强力晋升</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_RANGE">
+			<Text>精确抛射</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_RANGE_HELP">
+			<Text>射程+2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHIREN_STRATEGY">
+			<Text>只能创造文学杰作的特殊伟人,他们诞生就是为了创造一首能流传下去的诗。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_S_TANG_JIUZHUANG">
+			<Text>琼浆酒庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_S_TANG_JIUZHUANG_TEXT">
+			<Text>唐朝前中期个人酒业十分发达，这是社会繁荣民生安定的侧面体现。
+				[NEWLINE][ICON_BULLET]+2[ICON_FOOD]食物+1[ICON_CULTURE]文化+1[ICON_GOLD]金钱，提供一份[ICON_RES_QIONGJIANG]琼浆并为临近的农田+1[ICON_FOOD]食物、种植园+1[ICON_CULTURE]文化、矿井+1[ICON_PRODUCTION]产能
+				[NEWLINE][ICON_BULLET]邻近河流时额外+2[ICON_FOOD]食物，存在道路时额外+4[ICON_GOLD]金钱，铁路则为8[ICON_GOLD]金钱，临近城市额外+2[ICON_PRODUCTION]产能
+				[NEWLINE][ICON_BULLET]每个临近的猎场、牧场、采石场都将为琼浆酒庄+1[ICON_PEACE]信仰
+				[NEWLINE][ICON_BULLET]城市入驻伟人、获得伟人入驻的额外效果都会增加指定产出
+				[NEWLINE][ICON_BULLET]有大科学家站立时+3[ICON_RESEARCH]科研
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_S_TANG_JIUZHUANG_HELP">
+			<Text>+2[ICON_FOOD]食物+1[ICON_CULTURE]文化+1[ICON_GOLD]金钱，提供一份[ICON_RES_QIONGJIANG]琼浆并为临近的农田+1[ICON_FOOD]食物、种植园+1[ICON_CULTURE]文化、矿井+1[ICON_PRODUCTION]产能
+				[NEWLINE][ICON_BULLET]邻近河流时额外+2[ICON_FOOD]食物，存在道路时额外+4[ICON_GOLD]金钱，铁路则为8[ICON_GOLD]金钱，临近城市额外+2[ICON_PRODUCTION]产能
+				[NEWLINE][ICON_BULLET]每个临近的猎场、牧场、采石场都将为琼浆酒庄+1[ICON_PEACE]信仰
+				[NEWLINE][ICON_BULLET]城市入驻伟人、获得伟人入驻的额外效果都会增加指定产出
+				[NEWLINE][ICON_BULLET]有大科学家站立时+3[ICON_RESEARCH]科研
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_S_TANG_JIUZHUANG">
+			<Text>修建一座琼浆酒庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_S_TANG_JIUZHUANG_HELP">
+			<Text>修建一座琼浆酒庄，这将提高该地块的食物、文化、金钱产出，并根据地块位置提高加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_S_TANG_JIUZHUANG_REC">
+			<Text>在此处修建琼浆酒庄将提高该地块产出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FANGSHI">
+			<Text>金石方士</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FANGSHI_TEXT">
+			<Text>方士，指方术士，即方技之士与数术之士，古代自称能访仙炼丹以求长生不老的人。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FANGSHI_HELP">
+			<Text>李世民拒绝臣子进谏时获得的特殊工人单位，可以在没有资源且邻近琼浆酒庄的丘陵地块随机发掘一种奢侈矿石，发掘后消耗本单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FANGSHI_STRATEGY">
+			<Text>通过这个单位你可以合理地安排琼浆酒庄的建造范围</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_S_TANG_TANKUANG">
+			<Text>金石勘测</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_S_TANG_TANKUANG_TEXT">
+			<Text>在没有资源的丘陵地块随机发掘一种奢侈矿石，只能在邻近琼浆酒庄时修建，发掘后消耗本单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_S_TANG_TANKUANG_HELP">
+			<Text>在没有资源的丘陵地块随机发掘一种奢侈矿石，只能在邻近琼浆酒庄时修建，只能由金石方士建造</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_S_TANG_TANKUANG">
+			<Text>进行金石勘测</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_S_TANG_TANKUANG_HELP">
+			<Text>在此地进行金石勘测，发掘一种矿石，发掘后消耗本单位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_S_TANG_TANKUANG_REC">
+			<Text>在此地进行金石勘测，随机发掘一种矿石，发掘后消耗本单位，需要邻近地块存在琼浆酒庄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TANG_QIONGJIANG">
+			<Text>琼浆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TANG_QIONGJIANG_TEXT">
+			<Text>琼浆，代指美味的酒</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_LIBRARY_DESC">
+			<Text>[ICON_GREAT_SCIENTIST][ICON_RESEARCH]弘文馆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_LIBRARY_HELP">
+			<Text>大唐特色图书馆，+2[ICON_RESEARCH]科研，本城市中每2[ICON_CITIZEN]市民+1[ICON_RESEARCH]科研。
+				[NEWLINE]提供一个科学家席位，+2大科学家点数，提供两个文学杰作展位
+				[NEWLINE]每4[ICON_CITIZEN]市民+1[ICON_GOLD]维护费。
+				[NEWLINE]特有效果：群臣进谏，详见建筑百科策略。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_LIBRARY_STRATEGY">
+			<Text>群臣进谏(每回合仅能触发一次)：
+				[NEWLINE]完成奇观时有10+（2*全国弘文馆数量+1*全国世界奇观数量）%概率触发大臣进谏奇观误国事件
+				[NEWLINE]采纳进谏：扣除九成国库，[ICON_GOLDEN_AGE]黄金时代立刻延长十回合，所有城市+1[ICON_CITIZEN]人口，获得[ICON_CULTURE]文化、[ICON_RESEARCH]科研、[ICON_PEACE]信仰产出，完成奇观的城市获得-150%的奇观建造减成（每回合衰减50%）
+				[NEWLINE]若此时[ICON_GOLDEN_AGE]黄金时代剩余回合数大于60，将[ICON_GOLDEN_AGE]黄金时代时间扣除50并获得一名[ICON_GREAT_PEOPLE]自选伟人，一项免费科技
+				[NEWLINE]接受进谏时若进谏概率大于100%，每1%富余概率降低1额外奖励扣除的[ICON_GOLDEN_AGE]黄金时代回合数
+				[NEWLINE]
+				[NEWLINE]拒绝进谏：若此时为[ICON_GOLDEN_AGE]黄金时代则结束黄金时代获得[ICON_GOLDEN_AGE]黄金时代原持续时长相关的金钱，若不是[ICON_GOLDEN_AGE]黄金时代则清除所有现有文化并获得与清除文化数量相关的金钱。
+				[NEWLINE]首都赠送两位金石方士。
+				[NEWLINE]每次拒绝进谏会使触发进谏的概率降低3%。
+				[NEWLINE]在基础进谏概率高于0%时，每个未触发进谏的奇观都将使下一次完成奇观触发进谏的概率增加5%，此额外触发率在触发进谏后清空重新叠加。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_LIBRARY_BONUS_HELP">
+			<Text>两个不同文明不同时代的杰作提供额外产出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_S_TANG_LIBRARY_TEXT">
+			<Text>弘文馆，官署名。唐武德四年（公元621年）置修文馆于门下省。
+				九年，太宗即位，改名弘文馆。聚书二十余万卷。置学士，掌校正图籍，教授生徒；
+				遇朝有制度沿革﹑礼仪轻重时，得与参议。置校书郎，掌校理典籍，刊正错谬。设馆主一人，总领馆务。学生数十名，皆选皇族贵戚及高级京官子弟，师事学士受经史书法。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_MONUMENT_DESC">
+			<Text>[ICON_GREAT_PEOPLE][ICON_GOLDEN_AGE]凌烟阁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_MONUMENT_PEDIA">
+			<Text>
+				凌烟阁是唐代为表彰功臣建筑的绘有功臣图像的高阁，是太极宫组成部分。因“凌烟阁二十四功臣”而闻名于世，后毁于战乱。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_MONUMENT_STRATEGY">
+			<Text>
+				每座拥有[ICON_GREAT_PEOPLE][ICON_GOLDEN_AGE]凌烟阁的城市获得一个伟人入驻位，将伟人移动到该城市地格以解锁入驻按钮;
+				[NEWLINE]每解锁一条荣誉政策树的政策都会使入驻伟人的城市提高3%[ICON_PRODUCTION]产能。每种伟人全国至多入驻X位(满X位时获得该伟人对应的额外效果,X随地图大小改变(5-9))，入驻不同伟人获得不同效果:
+
+				[NEWLINE]若城市为某文明的原始首都，入驻伟人时视为同时入驻两位该类型伟人.
+
+				[NEWLINE][NEWLINE]大军事家:每位入驻的大军事家使全国军事单位初始经验+30，本城市生产军事单位时增加100%[ICON_PRODUCTION]产能且提供10[ICON_RES_MANPOWER]人力，
+				[NEWLINE]额外效果:[COLOR_YIELD_GOLD]天发杀机[ENDCOLOR]:所有军事单位获得20固伤15固免和一次额外攻击，每座城市提供战略资源x10,允许所有城市空运；
+
+				[NEWLINE][NEWLINE]大科学家:每位入驻的大科学家为城市提供2个科学家席位，并使全国科学家+2[ICON_RESEARCH]科研-1[ICON_GOLD]金钱，
+				[NEWLINE]额外效果:[COLOR:0:204:255:255]英杰辈出[ENDCOLOR]:每座城市额外获得2个大科学家席位，每座城市提高8%全国科研[ICON_RESEARCH]产出；
+
+				[NEWLINE][NEWLINE]大工程师:每位入驻的大工程师使本城+5[ICON_PRODUCTION]产能且奇观建造速度增加25%，全国工程师+1[ICON_PRODUCTION]产能+1[ICON_GOLD]金钱，全国[ICON_PRODUCTION]产能增加10%，
+				[NEWLINE]额外效果:[COLOR:255:149:122:255]鸠工庀材[ENDCOLOR]:城市建造项目需要的[ICON_PRODUCTION]产能需求-30%；
+
+				[NEWLINE][NEWLINE]大艺术家:每位入驻的大艺术家使全国[ICON_GREAT_PEOPLE]伟人点数积累速率提高15%，[ICON_GOLDEN_AGE]黄金时代长度延长25%，
+				[NEWLINE]额外效果:[COLOR:255:122:162:255]欣欣向荣[ENDCOLOR]:[ICON_GOLDEN_AGE]黄金时代内全国[ICON_GREAT_PEOPLE]伟人点数积累速率+100%，全国每1[ICON_CITIZEN]人口产出10[ICON_GOLDEN_AGE]黄金时代点数,所有城市解除人口增长卫生设施需求；
+
+				[NEWLINE][NEWLINE]大文学家:每位入驻的大文学家使[ICON_CULTURE]政策阈值降低5%，同时该城市大幅降低腐败，全国扩展地块需求[ICON_CULTURE]文化-5%；
+				[NEWLINE]额外效果:[COLOR:255:0:77:255]青史留名[ENDCOLOR]:每个杰作为所有单位提供4%[ICON_STRENGTH]战斗加成
+
+				[NEWLINE][NEWLINE]大先知:每位入驻的大先知使城市宗教压力+200%，全国[ICON_PEACE]信仰产出+20%，
+				[NEWLINE]额外效果:[COLOR:0:204:0:255]海纳百川[ENDCOLOR]:此后每次入驻伟人将获得一定量[ICON_PEACE]信仰并为你创立的宗教增添一个随机可用信条(会导致无法改革和强化，请在完成这两项以后进行)，若未发教或已经获得所有可用信条，则改为一次性巨额[ICON_PEACE]信仰奖励。
+
+				[NEWLINE][NEWLINE]大商业家:每位入驻的大商业家使该城市开发奢侈品数量翻倍，额外获得一条[ICON_INTERNATIONAL_TRADE]商路，提供一张世界议会选票,提供30[ICON_RES_CONSUMER]商品。
+				[NEWLINE]额外效果:[COLOR_YIELD_GOLD]太平盛世[ENDCOLOR]:免除所有单位、建筑、道路的维护费，全国[ICON_GOLD]购买系数降低25%；
+
+				[NEWLINE][NEWLINE]大音乐家:每位入驻的大音乐家使所有杰作+5[ICON_TOURISM]魅力+5[ICON_CULTURE]文化+5[ICON_RESEARCH]科研，全国地块奇观文化转[ICON_TOURISM]魅力比例+15%，
+				[NEWLINE]额外效果:[COLOR:102:0:255:255]天朝上国[ENDCOLOR]:对其他意识形态压力x10，获得国际移民速率+200%，全国[ICON_TOURISM]魅力+100%；
+
+				[NEWLINE][NEWLINE]海军统帅:每位入驻的海军统帅都会使该城市商路距离增加50%，全国渔船+1[ICON_FOOD]食物，所有国际商路+15[ICON_GOLD]金钱，
+				[NEWLINE]额外效果:[COLOR:0:61:255:255]星辰大海[ENDCOLOR]:允许所有海军进行20格空投且[ICON_STRENGTH]战斗力增加50%，面对空军时额外增加100%[ICON_STRENGTH]战斗力，所有单位海运移动力+2；
+
+				[NEWLINE][NEWLINE]大医学家:每位入驻的大医学家使本城专家+2[ICON_HEALTH]健康，全国疾病降低5%，全国[ICON_HEALTH]健康增加5%，(需要加载世界强权)
+				[NEWLINE]额外效果:[COLOR:245:0:61:255]以民为本[ENDCOLOR]:所有专家席位+5[ICON_HEALTH]健康+5[ICON_RESEARCH]科研
+
+				[NEWLINE]未写出的伟人无法入驻。
+
+				[NEWLINE]伟人入驻对琼浆酒庄的加成请参见百科中伟人入驻的加成建筑描述。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_MONUMENT_HELP">
+			<Text>
+				大唐特有建筑，代替纪念碑，+2[ICON_CULTURE]文化+3[ICON_GOLDEN_AGE]黄金时代点数+2%全国[ICON_GREAT_PEOPLE]伟人点数，允许在本城市入驻一位伟人
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_AMPHITHEATER_DESC">
+			<Text>[ICON_RES_CONSUMER][ICON_RES_QIONGJIANG]大唐酒肆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_AMPHITHEATER_PEDIA">
+			<Text>
+				初唐的酒业十分发达，私人酒坊酒肆遍地开花。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_AMPHITHEATER_HELP">
+			<Text>大唐特有建筑，代替露天剧场
+				[NEWLINE][ICON_BULLET]+3[ICON_HAPPINESS_1]快乐+2[ICON_FOOD]食物+2[ICON_CULTURE]文化,本城每2[ICON_CITIZEN]人口产出1[ICON_GOLD]金钱
+				[NEWLINE][ICON_BULLET]本城琼浆酒庄+2[ICON_GOLD]金钱+1[ICON_CULTURE]文化+1[ICON_FOOD]食物，提供两份[ICON_RES_QIONGJIANG]琼浆和[ICON_RES_CONSUMER]商品
+				[NEWLINE][ICON_BULLET]建造完成时赠送一位诗人,拥有三个文学杰作展位
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_AMPHITHEATER_BONUS_HELP">
+			<Text>
+				三个同时代杰作提供额外产出
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_STABLE">
+			<Text>
+				[ICON_RES_HORSE][ICON_PRODUCTION]六骏司
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_STABLE_HELP">
+			<Text>
+				大唐特有建筑，代替马厩
+				[NEWLINE][ICON_BULLET]+2[ICON_PRODUCTION]产能+2[ICON_GOLD]金钱，提供8单位[ICON_RES_HORSE]马，本城训练的陆军单位初始经验+15
+				[NEWLINE][ICON_BULLET]本城范围内每处猎场、牧场+2[ICON_PRODUCTION]产能，+2[ICON_FOOD]食物，+2[ICON_GOLD]金钱
+				[NEWLINE][ICON_BULLET]本城建造的轻重骑兵、装甲、直升机单位和银装陌刀将获得“秦王亲兵”晋升。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_ARMORY">
+			<Text>[ICON_WAR][ICON_PRODUCTION]折冲府</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_ARMORY_TEXT">
+			<Text>折冲府是唐代府兵制基层组织军府的名称。
+				折冲府分上、中、下三等，上府一千二百人（有时增至一千五百人），中府一千人，下府八百人，所属的兵士通称卫士。
+				每府置折冲都尉一人，左右果毅都尉各一人，别将、长史、兵曹参军各一人，这是府一级的组织。
+				府以下，三百人为团，团有校尉及旅帅；五十人为队，有队正、副；十人为火，有火长。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_ARMORY_HELP">
+			<Text>
+				大唐特有建筑，代替军械所
+				[NEWLINE][ICON_BULLET]本城农田+1[ICON_PRODUCTION]产能，建造完成后赠送一队本时代攻城单位.
+				[NEWLINE][ICON_BULLET]每回合为全国军事单位提供1经验。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_NATIONAL_SCULPTURE">
+			<Text>[ICON_GREAT_PEOPLE][ICON_GOLDEN_AGE]曲江池</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_NATIONAL_SCULPTURE_HELP">
+			<Text>
+				大唐特有建筑，代替领袖铜像，解锁条件更改为需求20份[ICON_RES_QIONGJIANG]琼浆,只能建造于首都且不能与[ICON_CULTURE][ICON_RESEARCH]鸿胪寺建造在同一城市。
+				[NEWLINE][ICON_BULLET]获得一项免费政策、[ICON_GOLDEN_AGE]黄金时代长度+50%、开启一次[ICON_GOLDEN_AGE]黄金时代、全国[ICON_GREAT_PEOPLE]伟人点数积累速率+20%
+				[NEWLINE][ICON_BULLET]建造完成后臣子必定发起进谏并永久增加10%的基础进谏概率
+				[NEWLINE][ICON_BULLET]允许本城市入驻不同类型的伟人各一位。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_NATIONAL_SCULPTURE_PEDIA">
+			<Text>秦始皇最初在曲江池修筑离宫，名宜春宫。汉武帝时，将曲江池一带划入上林苑，对曲江进行开凿，以“其水曲折，有似广陵之江，故名‘曲江’”。 隋时，又对曲江进行了开凿和加深，改称芙蓉池。
+				[NEWLINE]唐开元年间（713～741年），唐玄宗对曲江大加扩修，引南山义谷口的黄渠水入注池中，使其水面剧增至70万平方米，池周大筑亭台楼榭，宫殿林立，楼阁连绵，花树繁茂，景色绮丽。
+				[NEWLINE]每当上巳（三月初三）、中元（七月十五日）和重阳（九月九日），皇室贵胄、达官显宦、雅士文人均来此游赏，樽壶酒浆，笙歌画舫，优游宴乐于曲江池上。若逢进士及第，必至这里聚会庆贺，饮酒赋诗，
+				谓之“曲江流饮”，四方居民都来观赏，皇帝也携嫔妃前来取乐。唐代诗人曾在这里留下许多诗句，“穿花蛱蝶深深现，点水蜻蜓款款飞”“桃花细逐杨花落，黄鸟时兼白鸟飞”，即为杜甫对这里自然美景的生动描绘。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_HONGLUSI">
+			<Text>[ICON_CULTURE][ICON_RESEARCH]鸿胪寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_HONGLUSI_STRATEGY">
+			<Text>通过攻占他国原始首都建立鸿胪寺可以极大提高伟人入驻的速率，值得注意的是，城邦的原始首都也属于“他国原始首都”。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_HONGLUSI_TEXT">
+			<Text>唐代中央主管民族事务与外事接待活动及凶丧之仪的机关，政令仰承尚书省礼部。</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_HONGLUSI_HELP">
+			<Text>
+				大唐特殊建筑，需要开启赞助政策且城市为某个文明的原始首都，不能与[ICON_GREAT_PEOPLE][ICON_GOLDEN_AGE]曲江池建造在同一城市。
+				[NEWLINE]需要拥有加成:[COLOR:255:149:122:255]鸠工庀材[ENDCOLOR]
+				[NEWLINE]每个友好城邦+5[ICON_RESEARCH]科研+5[ICON_CULTURE]文化，每个盟邦+10[ICON_RESEARCH]科研+10[ICON_CULTURE]文化。
+				[NEWLINE]特殊能力:辐辏鸿胪
+				[NEWLINE]每个掌控的他国原始首都都将为本城市提供一个伟人的额外入驻位。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_GENERAL">
+			<Text>伟人入驻:大军事家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_GENERAL_HELP">
+			<Text>大军事家:每位入驻的大军事家使全国军事单位初始经验+30，本城市生产军事单位时增加100%[ICON_PRODUCTION]产能且提供10[ICON_RES_MANPOWER]人力，本城琼浆酒庄+1[ICON_PRODUCTION]产能+1[ICON_RESEARCH]科研，
+				[NEWLINE]额外效果:所有军事单位获得20固伤15固免和一次额外攻击，每座城市提供战略资源x10,允许所有城市空运，全国琼浆酒庄+3[ICON_PRODUCTION]产能+2[ICON_RESEARCH]科研；</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_GENERAL_STRATEGY">
+			<Text>入驻大军事家可以极大地增加战争能力，满额大军事家的加成将会巨幅提高所有军事单位的战斗力，在军事基地前解锁的空运也能提前让笨重的陆军单位迅速到达前线或异大陆，充足的战略资源足以让你与世界对抗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_GENERAL_2">
+			<Text>[COLOR_YIELD_GOLD]天发杀机[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_SCIENTIST">
+			<Text>伟人入驻:大科学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_SCIENTIST_HELP">
+			<Text>大科学家:每位入驻的大科学家为城市提供2个科学家席位，同时提高全国科学家2[ICON_RESEARCH]科研-1[ICON_GOLD]金钱，本城琼浆酒庄+2[ICON_RESEARCH]科研，
+				[NEWLINE]额外效果:每座城市额外获得2个大科学家席位，每座城市提高8%全国科研[ICON_RESEARCH]产出，全国琼浆酒庄+5[ICON_RESEARCH]科研；</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_SCIENTIST_STRATEGY">
+			<Text>入驻大科学家可以极大地增加城市的[ICON_RESEARCH]科研产出，提供的科学家席位在前中期尤为宝贵，需要注意的是由于专家维护费的升高，你可能需要手动分配专家席位才能获得最佳产出。
+				满额大科学家的加成往往会使国家科研产出翻上几倍，这会极大加速科技树攀爬速度。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_SCIENTIST_2">
+			<Text>[COLOR:0:204:255:255]英杰辈出[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ENGINEER">
+			<Text>伟人入驻:大工程师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ENGINEER_HELP">
+			<Text>大工程师:每位入驻的大工程师使本城+5[ICON_PRODUCTION]产能且奇观建造速度增加25%，提供一个[ICON_PRODUCTION]工程师席位，全国工程师+1[ICON_PRODUCTION]产能+1[ICON_GOLD]金钱，全国[ICON_PRODUCTION]产能增加10%，本城琼浆酒庄+2[ICON_PRODUCTION]产能
+				[NEWLINE]额外效果:城市建造项目需要的[ICON_PRODUCTION]产能需求-30%，全国琼浆酒庄+5[ICON_PRODUCTION]产能；</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ENGINEER_STRATEGY">
+			<Text>如果你是一个奇观控的话，那么第一个满额加成选择大工程师会让你极其舒适，高额的前期固定产能和宝贵的百分比加成可以让你在奇观数量上一骑绝尘，而额外加成的30%产能减免对于后期的飞船建造和奇观建造会有非常大的帮助。
+				唯一的缺点就是太过朴实，大工程师入驻只提供产能和少部分金钱，中后期的一些其他加成会让大工程师的入驻效果显得并不突出。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ENGINEER_2">
+			<Text>[COLOR:255:149:122:255]鸠工庀材[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ARTIST">
+			<Text>伟人入驻:大艺术家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ARTIST_HELP">
+			<Text>大艺术家:每位入驻的大艺术家使全国[ICON_GREAT_PEOPLE]伟人点数积累速率提高15%，[ICON_GOLDEN_AGE]黄金时代长度延长25%，本城琼浆酒庄+2[ICON_FOOD]食物+1[ICON_GOLDEN_AGE]黄金时代点数
+				[NEWLINE]额外效果:黄金时代内全国[ICON_GREAT_PEOPLE]伟人点数积累速率+100%，全国每1[ICON_CITIZEN]人口产出10[ICON_GOLDEN_AGE]黄金时代点数,所有城市解除人口增长卫生设施需求，全国琼浆酒庄+5[ICON_FOOD]食物+5[ICON_GOLDEN_AGE]黄金时代点数；</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ARTIST_STRATEGY">
+			<Text>显然，入驻大艺术家的加成并不像其他加成那样来得直接，[ICON_GOLDEN_AGE]黄金时代长度加成和[ICON_GREAT_PEOPLE]伟人点数加成都不是马上就能有奇效的buff，但是如果你的帝国已经是横跨多大陆、城市和人口都非常之巨
+				的话，大艺术家的加成就会明显起来，黄金时代的延长意味着已经100%触发概率的奇观进谏效果的两种结果的产出都将得到提升，而满额加成的人口增长解禁将会让你的帝国在可预见的回合内拥有大量高人口高规模城市，它们毫无疑问将会让帝国更稳固。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ARTIST_2">
+			<Text>[COLOR:255:122:162:255]欣欣向荣[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_WRITER">
+			<Text>伟人入驻:大文学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_WRITER_HELP">
+			<Text>大文学家:每位入驻的大文学家使[ICON_CULTURE]政策阈值降低5%，同时该城市大幅降低腐败，全国扩展地块需求[ICON_CULTURE]文化-5%，本城琼浆酒庄+2[ICON_CULTURE]文化
+				[NEWLINE]额外效果:每个杰作为所有单位提供4%[ICON_STRENGTH]战斗加成，全国琼浆酒庄+5[ICON_CULTURE]文化</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_WRITER_STRATEGY">
+			<Text>大文学家入驻的效果是明显的，你可以观察入驻前后的政策阈值变化直接判断其价值，腐败的消除对于一个疆域辽阔的帝国而言也是进行远征或者开拓的一大助力。
+				满额入驻的杰作加成加上诗人们创作的海量杰作，将提供稳定且可增长的战争加成。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_PROPHET">
+			<Text>伟人入驻:大先知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_PROPHET_HELP">
+			<Text>大先知:每位入驻的大先知使城市宗教压力+200%，全国[ICON_PEACE]信仰产出+20%，本城琼浆酒庄+2[ICON_PEACE]信仰
+				[NEWLINE]额外效果:此后每次入驻伟人将获得一定量[ICON_PEACE]信仰并为你创立的宗教增添一个随机可用信条(会导致无法改革和强化，请在完成这两项以后进行)，若未发教或已经获得所有可用信条，则改为一次性巨额[ICON_PEACE]信仰奖励，全国琼浆酒庄+5[ICON_PEACE]信仰。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_PROPHET_STRATEGY">
+			<Text>如果游戏内的信条不够强大的话，入驻大先知的效果将会微乎其微，如果在超级信条MOD这种宗教强度甚至能凌驾在文明强度的环境中，入驻大先知对文明本身的增幅将是极其明显的。
+				额外加成提供的[ICON_PEACE]信仰将随着游戏进程逐渐增多，在尾盘一个伟人入驻获得上万甚至两万[ICON_PEACE]信仰也并不奇怪。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_MERCHANT">
+			<Text>伟人入驻:大商业家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_MERCHANT_HELP">
+			<Text>大商业家:每位入驻的大商业家使该城市开发奢侈品翻倍，增加一条[ICON_INTERNATIONAL_TRADE]商路，提供一张世界议会选票,提供30[ICON_RES_CONSUMER]商品，本城琼浆酒庄+3[ICON_GOLD]金钱
+				[NEWLINE]额外效果:免除所有单位、建筑、道路的维护费，全国[ICON_GOLD]购买系数降低25%，全国琼浆酒庄+10[ICON_GOLD]金钱；
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_MERCHANT_STRATEGY">
+			<Text>强力的经济支撑，商业家入驻的效果简单而有效，满额入驻加成的战略意义尤为重大：你的国家在与全世界为敌时经济也不会崩溃。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_MUSICIAN">
+			<Text>伟人入驻:大音乐家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_MUSICIAN_HELP">
+			<Text>大音乐家:每位入驻的大音乐家使所有杰作+5[ICON_TOURISM]魅力+5[ICON_CULTURE]文化+5[ICON_RESEARCH]科研，全国地块奇观文化转[ICON_TOURISM]魅力比例+15%，本城琼浆酒庄+2[ICON_TOURISM]魅力
+				[NEWLINE]额外效果:对其他意识形态压力x10，获得国际移民速率+200%，全国[ICON_TOURISM]魅力+100%，全国琼浆酒庄+5[ICON_TOURISM]魅力；
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_MUSICIAN_STRATEGY">
+			<Text>看重大音乐家的杰作加成而选择早早开始入驻，也是一种速通的玩法，但是你真有快速在新城市建成酒肆的实力吗？大音乐家的入驻效果娱乐性偏高，满额加成会让你发现即使1000%的意识形态压力AI也很难彻底倒向你。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ADMIRAL">
+			<Text>伟人入驻:海军统帅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ADMIRAL_HELP">
+			<Text>海军统帅:每位入驻的海军统帅都会使该城市商路距离增加50%，全国渔船+1[ICON_FOOD]食物，所有国际商路+15[ICON_GOLD]金钱，本城琼浆酒庄+3[ICON_FOOD]食物
+				[NEWLINE]额外效果:允许所有海军进行20格空投且[ICON_STRENGTH]战斗力增加50%，面对空军时额外增加100%[ICON_STRENGTH]战斗力，所有单位海运移动力+2，全国琼浆酒庄+10[ICON_FOOD]食物；
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ADMIRAL_STRATEGY">
+			<Text>种地+养猪双重加成的入驻效果，如果说大商业家入驻是节流的话海军统帅的入驻就是开源。额外效果对于后期海战的意义极其重大，它可以让你的海军快速机动在两三个回合内从帝国腹地抵达前线。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_ADMIRAL_2">
+			<Text>[COLOR:0:61:255:255]星辰大海[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_DOCTOR">
+			<Text>伟人入驻:大医学家</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_DOCTOR_HELP">
+			<Text>大医学家:每位入驻的大医学家使本城专家+2[ICON_HEALTH]健康，全国疾病降低5%，全国[ICON_HEALTH]健康增加5%，本城琼浆酒庄+2[ICON_HEALTH]健康
+				[NEWLINE]额外效果:所有专家席位+5[ICON_HEALTH]健康+5[ICON_RESEARCH]科研，全国琼浆酒庄+5[ICON_HEALTH]健康
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LINYAN_DOCTOR_STRATEGY">
+			<Text>大医学家的入驻将极大削减全国的疾病压力，满额加成还将缓解世界强权后期的高额科研压力。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_WONDER_DEBUFF">
+			<Text>接受进谏：奇观建造减成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_WONDER_DEBUFF_HELP">
+			<Text>每个降低本城市50%奇观建造产能，每回合数量减一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_REJECTTIMES">
+			<Text>拒绝进谏：次数累计</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_REJECTTIMES_HELP">
+			<Text>这个建筑的数量等于你拒绝进谏的次数，你可以据此计算触发进谏的概率</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_S_TANG_ACCEPT">
+			<Text>接受进谏：人口加成</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GONGWEN_JINJIAN">
+			<Text>你在{1_name}建造的奇观引发了臣子进谏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GONGWEN_JINJIAN_ACCEPT">
+			<Text>同意降低在{1_name}建造奇观的频率，该城市获得-150%的奇观建造减成（每回合衰减50%），扣除九成国库，黄金时代立刻延长十回合
+				[NEWLINE]所有城市+1[ICON_CITIZEN]人口，获得[ICON_CULTURE]文化、[ICON_RESEARCH]科研、[ICON_PEACE]信仰产出，
+				[NEWLINE]若此时[ICON_GOLDEN_AGE]黄金时代剩余回合数大于60，将[ICON_GOLDEN_AGE]黄金时代时间扣除{2_num}并获得一名[ICON_GREAT_PEOPLE]自选伟人，一项免费科技
+				[NEWLINE]若此时处于战争状态，全国军事单位获得100经验</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GONGWEN_JINJIAN_REJECT">
+			<Text>拒绝降低在{1_name}建造奇观的频率，这将使臣子进谏概率降低3%，如果你处于[ICON_GOLDEN_AGE]黄金时代，这将立刻退出[ICON_GOLDEN_AGE]黄金时代并获得[ICON_GOLDEN_AGE]黄金时代时长x200的[ICON_GOLD]金钱
+				[NEWLINE]如果不处于[ICON_GOLDEN_AGE]黄金时代，则清除所有[ICON_CULTURE]文化并获得文化x5的[ICON_GOLD]金钱
+				[NEWLINE]首都将获得两位金石方士(消耗自身发掘奢侈矿石的特殊工人单位)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GONGWEN_JINJIAN_ACCEPT_ST">
+			<Text>采纳进谏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GONGWEN_JINJIAN_REJECT_ST">
+			<Text>拒绝进谏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_JINJIAN_SHORT">
+			<Text>奇观劳民伤财!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POETRY_S_TANG">
+			<Text>一首打油诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POETRY_QUOTE_S_TANG">
+			<Text>这是一首在历史上被遗忘的诗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WRITER_S_TANG">
+			<Text>一位打油诗人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFF_1_SHORT">
+			<Text>敌军踌躇不前！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFF_1">
+			<Text>敌方{2_EnUName}面对你的{1_UnitName}[COLOR_NEGATIVE_TEXT]踌躇不前[ENDCOLOR]，4回合内[ICON_MOVES]移动力-1，进攻时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低10%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFFED_1_SHORT">
+			<Text>我军踌躇不前！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFFED_1">
+			<Text>你的{2_UnitName}面对敌方{1_EnUName}[COLOR_NEGATIVE_TEXT]踌躇不前[ENDCOLOR]，4回合内[ICON_MOVES]移动力-1，进攻时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低10%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFF_2_SHORT">
+			<Text>敌军身心俱疲！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFF_2">
+			<Text>敌方{2_EnUName}面对你的{1_UnitName}[COLOR_NEGATIVE_TEXT]身心俱疲[ENDCOLOR]，3回合内[ICON_MOVES]移动力-2，防御时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFFED_2_SHORT">
+			<Text>我军身心俱疲！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFFED_2">
+			<Text>你的{2_UnitName}面对敌方{1_EnUName}[COLOR_NEGATIVE_TEXT]身心俱疲[ENDCOLOR]，3回合内[ICON_MOVES]移动力-2，防御时降低25%[ICON_STRENGTH]战斗力，[ICON_STRENGTH]战斗力降低20%。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFF_3_SHORT">
+			<Text>敌军头晕眼花！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFF_3">
+			<Text>敌方{2_EnUName}在你的{1_UnitName}攻击下[COLOR_NEGATIVE_TEXT]头晕眼花[ENDCOLOR]，3回合内[ICON_MOVES]移动力-3，[ICON_STRENGTH]战斗力降低30%，无法近战攻击，每回合流失10%最大生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFFED_3_SHORT">
+			<Text>我军头晕眼花！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_DEBUFFED_3">
+			<Text>你的{2_UnitName}在敌方{1_EnUName}攻击下[COLOR_NEGATIVE_TEXT]头晕眼花[ENDCOLOR]，3回合内[ICON_MOVES]移动力-3，[ICON_STRENGTH]战斗力降低30%，无法近战攻击，每回合流失10%最大生命值。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_BUFF_ON">
+			<Text>李世民已集齐一种凌烟阁加成:{1_name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LINYAN_STRATEGY">
+			<Text>伟人加成详情请查看凌烟阁百科策略</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_BUFF_ING">
+			<Text>距离集齐凌烟阁加成还需要入驻{1_num}位伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_IN">
+			<Text>一位伟人已入驻城市{1_name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_FAITHFINALBONUS">
+			<Text>由于你已经获得凌烟阁[COLOR:0:204:0:255]海纳百川[ENDCOLOR]加成，本次入驻伟人奖励{1_num}[ICON_PEACE]信仰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_OVER">
+			<Text>你在城市{1_name}入驻了一位伟人，由于该类型伟人的累计入驻次数已达标，你获得加成{2_name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_NOT_OVER">
+			<Text>你在城市{1_name}入驻了一位伟人，若想获得该伟人的额外加成{2_description},你还需要在全国累计入驻{3_num}位该类型伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_NAME1">
+			<Text>将伟人入驻本城市凌烟阁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_NAME2">
+			<Text>将伟人入驻本城市曲江池</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP1">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市凌烟阁提供的入驻位</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP2">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市曲江池为本类型伟人提供的入驻位</Text>
+		</Row>
+		<!-- <Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP3">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市凌烟阁提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]伟人需要位于自己的城市中才能入驻[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP4">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市凌烟阁提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]城市需要存在凌烟阁才能入驻伟人[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP5">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市凌烟阁提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]本城市凌烟阁已经入驻其他伟人[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP6">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市凌烟阁提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]该类型伟人无法入驻凌烟阁[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP7">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市曲江池为本类型伟人提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]伟人需要位于自己的城市中才能入驻[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP8">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市曲江池为本类型伟人提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]该类型伟人无法入驻曲江池[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP9">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市曲江池为本类型伟人提供的入驻位
+				[NEWLINE][COLOR_NEGATIVE_TEXT]本城市曲江池已入驻该类型伟人[ENDCOLOR]</Text>
+		</Row> -->
+		<Row Tag="TXT_KEY_PROJECT_S_TANG_DAYI">
+			<Text>[COLOR_YIELD_GOLD]军事理论改革大议[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_S_TANG_DAYI_HELP">
+			<Text>只有同时拥有加成[COLOR_YIELD_GOLD]天发杀机[ENDCOLOR]和[COLOR:0:61:255:255]星辰大海[ENDCOLOR]的文明才能建造，完成以后，全国军事单位获得晋升[COLOR_YIELD_GOLD]天兵肇始[ENDCOLOR](增加50点血量,+50%战斗力，+1额外移动力，+1额外攻击次数，免疫大部分异常状态，攻击单位和城市时增加5%最大生命固伤)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_S_TANG_DAYI_PEDIA">
+			<Text>兵法从来不是照本宣科，新时代兵种和战争形式的出现迫切需求军事天才们对军事理论进行一项新的改革。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DAYI">
+			<Text>[COLOR_YIELD_GOLD]天兵肇始[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_S_TANG_DAYI_HELP">
+			<Text>+50点血量,+50%[ICON_STRENGTH]战斗力，+1额外移动力，+1额外攻击次数，免疫大部分异常状态，攻击单位和城市时增加5%最大生命固伤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_JINJIAN_HEAD">
+			<Text>无事发生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_JINJIAN_PROB">
+			<Text>你在城市{1_name}建造的奇观只引起了少量朝臣的注意，各种因素作用下，占比{2_num}%的支持上谏的臣子被其他人拦下来了</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GA_TEXT">
+			<Text>万国来朝</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GA_HELP_TEXT">
+			<Text>[ICON_GOLDEN_AGE][COLOR_POSITIVE_TEXT]昭昭有唐，天俾万国[ENDCOLOR]！
+				[NEWLINE][NEWLINE]所有金钱产出的地块额外+1[ICON_GOLD]金钱产出，全国+20%[ICON_PRODUCTION]产能，[ICON_CULTURE]文化。
+				[NEWLINE][ICON_GOLDEN_AGE]黄金时代长度大于50时接受臣子进谏将选拔一位自选伟人</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_GENERAL">
+			<Text>[COLOR_YIELD_GOLD]天发杀机[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_SCIENTIST">
+			<Text>[COLOR:0:204:255:255]英杰辈出[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_ENGINEER">
+			<Text>[COLOR:255:149:122:255]鸠工庀材[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_ARTIST">
+			<Text>[COLOR:255:122:162:255]欣欣向荣[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_WRITER">
+			<Text>[COLOR:255:0:77:255]青史留名[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_PROPHET">
+			<Text>[COLOR:0:204:0:255]海纳百川[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_MERCHANT">
+			<Text>[COLOR_YIELD_GOLD]太平盛世[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_MUSICIAN">
+			<Text>[COLOR:102:0:255:255]天朝上国[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_ADMIRAL">
+			<Text>[COLOR:0:61:255:255]星辰大海[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LINYAN_DOCTOR">
+			<Text>[COLOR:245:0:61:255]以民为本[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_NAME3">
+			<Text>将伟人入驻本城鸿胪寺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_S_TANG_GP_BUTTON_TIP3">
+			<Text>消耗伟人使其入驻本城市，这将为本城提供特有加成且消耗本城市鸿胪寺提供的一个额外入驻位</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

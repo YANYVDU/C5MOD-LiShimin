@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_S_TANG</Type>
+			<Description>TXT_KEY_TRAIT_S_TANG</Description>
+			<ShortDescription>TXT_KEY_TRAIT_S_TANG_SHORT</ShortDescription>
+			<AwayFromCapitalCombatModifier>5</AwayFromCapitalCombatModifier>
+			<AwayFromCapitalCombatModifierMax>200</AwayFromCapitalCombatModifierMax>
+			<InfluenceFromGreatPeopleBirth>35</InfluenceFromGreatPeopleBirth>
+			<FreeGreatPeoplePerEra>1</FreeGreatPeoplePerEra>
+		</Row>
+	</Traits>
+</GameData>

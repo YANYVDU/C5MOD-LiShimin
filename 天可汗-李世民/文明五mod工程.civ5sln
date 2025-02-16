@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# ModBuddy Solution File, Format Version 11.00
+Project("{F5FC21B5-7CC2-458A-ABBA-992F515BBA20}") = "天可汗-李世民", "天可汗-李世民\天可汗-李世民.civ5proj", "{eb81523e-250f-4de8-b854-32c91053a33b}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|x86 = Default|x86
+		Deploy Only|x86 = Deploy Only|x86
+		Package Only|x86 = Package Only|x86
+		Description = 李世民mod
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{eb81523e-250f-4de8-b854-32c91053a33b}.Default|x86.ActiveCfg = Default|x86
+		{eb81523e-250f-4de8-b854-32c91053a33b}.Default|x86.Build.0 = Default|x86
+		{eb81523e-250f-4de8-b854-32c91053a33b}.Deploy Only|x86.ActiveCfg = Deploy Only|x86
+		{eb81523e-250f-4de8-b854-32c91053a33b}.Deploy Only|x86.Build.0 = Deploy Only|x86
+		{eb81523e-250f-4de8-b854-32c91053a33b}.Package Only|x86.ActiveCfg = Package Only|x86
+		{eb81523e-250f-4de8-b854-32c91053a33b}.Package Only|x86.Build.0 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
